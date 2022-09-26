@@ -1,3 +1,3 @@
 # JS_IMC
 
-https://vercel.com/quirogajs/js-calculadora-de-imc
+https://js-calculadora-de-imc.vercel.app/
